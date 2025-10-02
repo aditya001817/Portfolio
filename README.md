@@ -1,0 +1,3 @@
+﻿Temp Portfolio (HTML)
+A clean, fast personal portfolio built with HTML5, CSS3. Includes responsive layout, dark theme accents (black & purple), and smooth animations.
+
